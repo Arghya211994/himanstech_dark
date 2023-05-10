@@ -134,6 +134,7 @@
     border: 1px solid #ced4da;
     height: 40px;
     padding: 4px 15px;
+    width: 100%;
 }
 
 .scndiv_right textarea{
@@ -175,6 +176,15 @@
     .scndiv_right button{
         width: 60%;
     }
+    .address{
+        display: flex;
+        flex-direction: column;
+        text-align: start;
+    }
+    .fstdiv_inner div p:nth-child(1){
+        border-right: none;
+    }
+    
 }
 
 @media(min-width:640px) and (max-width:768px){

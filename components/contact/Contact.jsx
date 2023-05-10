@@ -17,7 +17,7 @@ const Contact = () => {
                         <div className={styles.fstdiv_inner}>
                             <span style={{color:"#5abc2e"}}><MdLocationOn/></span>
                             <h4>Our Address</h4>
-                            <div>
+                            <div className={styles.address}>
                                 <p>Module 102, Webel IT Park, Phase II,
                                     Buddhapark, Kalyani, West Bengal 741235</p>
 

@@ -25,7 +25,7 @@ const Header = () => {
       <Link href="/" >
         <div  style={{height:"40px",width:"100%"}}>
           <Image src="./himanstech_logo2.svg" alt="" 
-          style={{height:"40px",width:"100%"}} width={250} height={45}/>
+          style={{height:"40px",width:"100%"}} width={100} height={100}/>
         </div>
       </Link>
       {/* logo-end */}

@@ -9,13 +9,13 @@ import React from 'react'
 const index = () => {
   return (
     <>
-    <Layout title="Himanstech">
+    <Layout>
         <Hero/>
         <Services/>
         <Portfolio/>
         <Why/>
         <Contact/>
-    </Layout>
+        </Layout>
     </>
   )
 }

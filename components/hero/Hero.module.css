@@ -90,6 +90,7 @@
  .carousel{
     position: relative;
     top: 50px;
+    width: 100%;
  }
 
  .leftarrow{
@@ -139,6 +140,24 @@
    }
    .button_box{
       width: 80%;
+   }
+   .image{
+      height: 150vh;
+   }
+   .button_box{
+      width: 70%;
+   }
+   .herobtn{
+      padding: 10px 15px;
+   }
+   .herobtn2{
+      display: none;
+   }
+   .button_box{
+      height: 100%;
+   }
+   .rightarrow{
+      top: 38%;
    }
  }
 
