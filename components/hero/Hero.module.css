@@ -142,7 +142,7 @@
       width: 80%;
    }
    .image{
-      height: 150vh;
+      height: 100vh;
    }
    .button_box{
       width: 70%;
@@ -156,9 +156,7 @@
    .button_box{
       height: 100%;
    }
-   .rightarrow{
-      top: 38%;
-   }
+   
  }
 
  @media(min-width: 640px) and (max-width:768px){
